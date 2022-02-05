@@ -51,11 +51,6 @@ Thanks to the TUI you can easily use this tool on a not very powerful machine, i
 The bot configuration is very easy thanks to the different configuration menus in the TUI. Parameters are managed and saved in Yaml files easy to edit manually!
 All dependencies are downloaded and managed automatically.
 
-<p align="center">
-  <img src="doc/gifs/demo_tui.gif">
-  <small>Easily configurable and easy to use thanks to his TUI !</small>
-</p>
-
 ### Requirements
 - [Java 8 or 11](https://java.com/fr/download/) (incompatible with newer versions yet)
 - For Windows:
@@ -75,8 +70,6 @@ All dependencies are downloaded and managed automatically.
   - Hot Reload functionality to apply configuration changes without restart !
   - Stop and Hot Reload are actions safe by waiting bot idle to execute !
 - Many more to come ! 🥳
-
-**Check this [Project](https://github.com/hbollon/igopher/projects/1) to see all planned features for this tool! Feel free to suggest additional features to implement! 🥳**
 
 ## Getting Started
 
@@ -180,12 +173,3 @@ Working Java versions tested:
 
 **If you find other problems, please open an issue. This is essential so that we can continue to improve IGopher! :smile:**
 
-## 🤝 Contributing
-
-Contributions are greatly appreciated!
-
-1. Fork the project
-2. Create your feature branch (```git checkout -b feature/AmazingFeature```)
-3. Commit your changes (```git commit -m 'Add some amazing stuff'```)
-4. Push to the branch (```git push origin feature/AmazingFeature```)
-5. Create a new Pull Request

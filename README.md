@@ -171,5 +171,3 @@ Working Java versions tested:
 - Linux (Manjaro): **jre11-openjdk** -> `sudo pacman -S jre11-openjdk`
 
 
-**If you find other problems, please open an issue. This is essential so that we can continue to improve IGopher! :smile:**
-

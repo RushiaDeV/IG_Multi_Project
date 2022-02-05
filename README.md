@@ -47,23 +47,6 @@
 
 IGopher is a new Instagram automation tool that aims to simplify the deployment of such tools and make their use more pleasant thanks to a TUI (Terminal User Interface) as well as a GUI (Graphical User Interface) powered with Electron.js!
 
-### Graphical User Interface
-
-<p align="center">
-  <img src="doc/gifs/demo_gui.gif">
-  <small>A beautiful, cross-platform and easy to use interface! Build with Electron.js and <a href="https://github.com/asticode/go-astilectron">go-astilectron</a>.</small>
-</p>
-
-Come with **Hot Reload** functionality to apply configuration changes without restart !
-Bot stopping and hot reloading are actions safe by waiting bot idle to execute.
-
-### Terminal User Interface
-
-<p align="center">
-  <img src="doc/gifs/demo.gif">
-  <small>Automatic user fetching and message sending!</small>
-</p>
-
 Thanks to the TUI you can easily use this tool on a not very powerful machine, in ssh, on a Vps or even on an operating system without graphical interface!
 The bot configuration is very easy thanks to the different configuration menus in the TUI. Parameters are managed and saved in Yaml files easy to edit manually!
 All dependencies are downloaded and managed automatically.
